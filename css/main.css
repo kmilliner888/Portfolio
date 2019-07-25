@@ -125,6 +125,10 @@ main #work {
     font-weight: bold;
 }
 
+.container3 img {
+    box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+}
+
 /*THIS IS THE RESUME AND LINKS SECTION*/
 
 .container4 {
